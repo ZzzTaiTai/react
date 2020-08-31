@@ -1,2 +1,3 @@
 # react
-react collection loading
+React exercise
+Learning...
